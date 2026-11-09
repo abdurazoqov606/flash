@@ -1,0 +1,6 @@
+{
+  "name": "Abdurazokhov AI",
+  "description": "Barmoqlar bilan havoda chizish va boshqarish imkonini beruvchi, smartfonlar uchun ultra-yengil va qotmaydigan AI kamera tajribasi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
